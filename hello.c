@@ -2,5 +2,7 @@
 
 int main()
 {
-	printf("Hello World!");
+	char nume[21];
+	scanf("%s",nume);
+	printf("Hello %s !",nume);
 }
