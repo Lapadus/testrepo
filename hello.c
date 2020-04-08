@@ -6,4 +6,5 @@ int main()
 	scanf("%s",nume);
 	printf("Hello %s !",nume);
 	printf("Forta Ralucele!!!\n");
+	printf("RRR");//arata bine zic eu (Razvan)
 }
